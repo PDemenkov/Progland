@@ -19,7 +19,7 @@ public class TestArray {
                 max = myList[i];
             }
         }
-        System.out.println("Наибольший элемент: " + max);
+        System.out.println( + max);
 
 
         double[] myList1 = {1.9, 2.9, 3.4, 3.5};
